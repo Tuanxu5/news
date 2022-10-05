@@ -1,0 +1,90 @@
+/* font size */
+.fs-11 {
+    font-size: 11px;
+}
+.fs-12 {
+    font-size: 12px;
+}
+.fs-13 {
+    font-size: 13px;
+}
+.fs-14 {
+    font-size: 14px;
+}
+.fs-15 {
+    font-size: 15px;
+}
+.fs-16 {
+    font-size: 16px;
+}
+.fs-17 {
+    font-size: 17px;
+}
+.fs-18 {
+    font-size: 18px;
+}
+.fs-19 {
+    font-size: 19px;
+}
+.fs-20 {
+    font-size: 20px;
+}
+.fs-25 {
+    font-size: 25px;
+}
+.fs-30 {
+    font-size: 30px;
+}
+
+
+
+/* color */
+.cl-fff {
+    color: #fff;
+}
+.cl-333{
+    color: #333;
+}
+.cl-7e929f{
+    color: #7e929f;
+}
+
+/* font weight */
+.fw-500{
+    font-weight:500;
+}
+.fw-600 {
+    font-weight: 600;
+}
+.fw-700 {
+    font-weight: 700;
+}
+
+
+/* text transform */
+.text-transform-uppercase
+{
+    text-transform: uppercase;
+}
+.text-transform-capitalize {
+    text-transform: capitalize;
+}
+/* text three dot */
+.hidden-1-line {
+display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.hidden-2-line {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.hidden-3-line {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}

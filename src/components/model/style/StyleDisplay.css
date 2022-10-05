@@ -1,0 +1,30 @@
+/* display */
+.d-flex {
+    display: flex;
+}
+.d-grid{
+    display:grid;
+}
+
+
+/* justify-content */
+.justify-content-between {
+    justify-content: space-between;
+}
+.justify-content-around {
+    justify-content: space-around;
+}
+
+
+/* align-items */
+.align-content-center {
+    align-items: center;
+}
+
+/* text align */
+.text-center{
+    text-align: center;
+}
+.text-justify {
+    text-align: justify;
+}

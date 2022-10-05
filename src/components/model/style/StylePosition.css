@@ -1,0 +1,11 @@
+.ps-abs {
+    position: absolute;
+}
+
+.ps-relative {
+    position: relative;
+}
+
+.ps-fixed {
+    position: fixed;
+}
